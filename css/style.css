@@ -1,0 +1,69 @@
+*{
+  margin:0;
+}
+h1{
+  text-align: center;
+  margin-top: 25px;
+}
+.gic{
+  border: 1px solid black;
+  width: 85px;
+  height: 1px;
+  margin: 0 auto;
+  background-color: peru;
+}
+.image1{
+  border: 5px solid black;
+  width:250px;
+  height: 200px;
+  border-color: peru;
+  margin-left: 70px;
+  border-radius: 10px;
+  margin-top: 33px;
+  display: flex;
+}
+.h3{
+  width: 275px;
+  margin-left: 18px;
+  margin-top: -8px;
+}
+.gin{
+  color: peru;
+}
+.lorem{
+  margin-left: 18px;
+  margin-top: 10px;
+  font-size: 20px;
+}
+.gic2{
+  border: 1px dotted black;
+  width: 230px;
+  height: 0;
+  margin: 18px;
+  margin-top: 2px;
+}
+image2{
+  border: 5px solid black;
+  width:350px;
+  height: 300px;
+  border-color: peru;
+
+}
+.image2{
+  border: 5px solid black;
+  width:250px;
+  height: 200px;
+  border-color: peru;
+  margin-left: 70px;
+  border-radius: 10px;
+  margin-top: 0;
+   display: flex;
+}
+.gin3{
+  margin-left: 50px;
+  color: peru;
+}
+
+
+
+
